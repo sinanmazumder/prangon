@@ -24,6 +24,9 @@ button{
 a{
     text-decoration: none !importnat;
 }
+section{
+    overflow: hidden;
+}
 
 /* end global area */
 
